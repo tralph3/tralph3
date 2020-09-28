@@ -1,16 +1,17 @@
-### Hi there 👋
+# Stats
 
-<!--
-**tralph3/tralph3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/tralph3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tralph3&show_icons=true&theme=merko" />
+</a>
+<a href="https://github.com/tralph3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tralph3&layout=compact&theme=merko" />
+</a>
 
-Here are some ideas to get you started:
+# Popular Repos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/tralph3/ZeroTier-GUI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tralph3&repo=ZeroTier-GUI&theme=merko" />
+</a><br>
+<a href="https://github.com/tralph3/Cue-Maker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tralph3&repo=Cue-Maker&theme=merko" />
+</a>
