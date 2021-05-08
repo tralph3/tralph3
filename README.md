@@ -14,10 +14,10 @@
 <p align="center">
 <a href="https://github.com/tralph3/ZeroTier-GUI">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=tralph3&repo=ZeroTier-GUI&hide_border=true&theme=merko" />
-</a>
+</a><br>
 <a href="https://github.com/tralph3/Cue-Maker">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=tralph3&repo=Cue-Maker&hide_border=true&theme=merko" />
-</a>
+</a><br>
 <a href="https://github.com/tralph3/Steam-Metadata-Editor">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=tralph3&repo=Steam-Metadata-Editor&hide_border=true&theme=merko" />
 </a>
