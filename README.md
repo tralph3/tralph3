@@ -15,6 +15,10 @@
 <a href="https://github.com/tralph3/ZeroTier-GUI">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=tralph3&repo=ZeroTier-GUI&hide_border=true&theme=merko" />
 </a><br>
+<a href="https://github.com/tralph3/ddi">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tralph3&repo=ddi&hide_border=true&theme=merko" />
+</a><br>
+
 <a href="https://github.com/tralph3/Cue-Maker">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=tralph3&repo=Cue-Maker&hide_border=true&theme=merko" />
 </a><br>
